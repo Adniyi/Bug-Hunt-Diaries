@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Learning on Bug Hunt Diaries</title>
+    <link>//localhost:1313/tags/learning/</link>
+    <description>Recent content in Learning on Bug Hunt Diaries</description>
+    <generator>Hugo -- 0.147.1</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 08 May 2025 10:55:33 -0700</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World! (Yes, It’s a Cliché. No, I Don’t Care.)</title>
+      <link>//localhost:1313/post/hello/</link>
+      <pubDate>Thu, 08 May 2025 10:55:33 -0700</pubDate>
+      <guid>//localhost:1313/post/hello/</guid>
+      <description>&lt;p&gt;Hey there! 👋&lt;/p&gt;
+&lt;p&gt;Welcome to my corner of the internet, where I document the things I build, break, and learn while navigating the weird and wonderful world of software development.&lt;/p&gt;
+&lt;p&gt;I’m David Adewumi, a developer-in-progress with a passion for solving problems, writing code, and sometimes yelling at my terminal until things start working again.&lt;/p&gt;
+&lt;h3 id=&#34;so-why-this-blog&#34;&gt;So&amp;hellip; why this blog?&lt;/h3&gt;
+&lt;p&gt;Good question. This blog is my way of:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Practicing “learning in public”&lt;/li&gt;
+&lt;li&gt;Showing off some cool projects (and the mess behind them)&lt;/li&gt;
+&lt;li&gt;Writing things down so future-me doesn’t repeat current-me’s mistakes&lt;/li&gt;
+&lt;li&gt;Creating something I can share with recruiters, mentors, and fellow devs&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;what-to-expect-here&#34;&gt;What to expect here&lt;/h3&gt;
+&lt;p&gt;You’ll find:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
