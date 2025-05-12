@@ -5,6 +5,10 @@ theme: PaperMod
 
 
 params:
+  author: Me
+  title: Bug Hunt Diaries
+  description: "Building and learning one bug at a time"
+  keywords: [Blog, Portfolio, PaperMod]
   ShowReadingTime: true
   ShowBreadCrumbs: true
   ShowCodeBlockLineNumbers: true
@@ -17,9 +21,13 @@ params:
     favicon32x32: "code-32x32.png"
     apple_touch_icon: "apple-touch-icon.png"
     
+
+
+    
   homeInfoParams:
     Title: 'Hi there 👋'
     Content: Welcome to my blog
+    
   socialIcons:
     - name: Github
     - url: "https://github.com/Adniyi/"
@@ -28,10 +36,8 @@ params:
     - url: "https://x.com/KennyManga/"
 
     - name: Quora
-    - url: "www.github.com/Adniyi"
+    - url: "https://www.quora.com/profile/Kenny-Manga"
 
-    - name: Twitter
-    - url: "www.github.com/Adniyi"
 
 
 

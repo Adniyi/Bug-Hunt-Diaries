@@ -3,6 +3,7 @@ date: '2025-05-09T04:41:07-07:00'
 draft: false
 title: 'Getting Started With Flask'
 tags: ["flask", "python", "web development", "beginner", "backend"]
+categories: ["web development","backend"]
 ---
 
 ## 👋 Introduction
