@@ -1,8 +1,11 @@
 ---
-date: '2025-05-08T10:55:33-07:00'
+date: "2025-05-08T10:55:33-07:00"
 draft: false
 title: "Hello World! (Yes, It’s a Cliché. No, I Don’t Care.)"
 tags: ["intro", "learning", "developer journey"]
+cover:
+  image: "/post/img/image.webp"
+  alt: "hello world"
 ---
 
 Hey there! 👋
@@ -23,6 +26,7 @@ Good question. This blog is my way of:
 ### What to expect here
 
 You’ll find:
+
 - Side projects and breakdowns of how I built them
 - Little discoveries, big bugs, and what I learned from them
 - Posts that explain things I just figured out

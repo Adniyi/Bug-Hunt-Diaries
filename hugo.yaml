@@ -3,7 +3,6 @@ languageCode: en-us
 title: Bug Hunt Diaries
 theme: PaperMod
 
-
 params:
   author: Me
   env: production
@@ -15,18 +14,17 @@ params:
   ShowCodeBlockLineNumbers: true
   ShowWordCount: true
   ShowShareButtons: true
+  # cover.Height: 20
+  # cover.Width: 20
   site.Params.mainSections:
   assets:
     favicon: "code.ico"
     favicon16x16: "code-16x16.png"
     favicon32x32: "code-32x32.png"
     apple_touch_icon: "apple-touch-icon.png"
-    
 
-
-    
   homeInfoParams:
-    Title: 'Hi there 👋'
+    Title: "Hi there 👋"
     Content: Welcome to my blog
 
   socialIcons:
@@ -38,11 +36,6 @@ params:
 
     - name: Quora
     - url: "https://www.quora.com/profile/Kenny-Manga"
-
-
-
-
-
 
 mediaTypes:
   application/json:
@@ -59,7 +52,6 @@ outputs:
   home:
     - HTML
     - JSON
-
 
 menu:
   main:
