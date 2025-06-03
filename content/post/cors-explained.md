@@ -11,7 +11,7 @@ cover:
 
 If you've ever worked with APIs—whether consuming them or building your own—you’re probably familiar with this frustrating error message:
 
-```
+```pgsql
 Access to fetch at 'http://api.example.com/data' from origin 'https://<your-website.com>' has been blocked by CORS policy.
 No 'Access-Control-Allow-Origin' header is present on the requested resource.
 ```
